@@ -1,5 +1,5 @@
-# Learn Selenium Webdriver with Java Course
-# 
+# Learn Test Automation with Selenium Webdriver and Java Course
+#
 # Final Homework (using Page Object Model)
 # Apr 2017
 #

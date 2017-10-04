@@ -1,4 +1,5 @@
-# Learn Selenium Webdriver with Java Course (500-hour practical course)
+# Learn Selenium Webdriver with Java Course
+# 
 # Final Homework
 # Apr 2017
 #
